@@ -1,235 +1,236 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="uk">
+<TS version="2.1" language="zh_TW">
 <context>
     <name>LXQt::Model</name>
     <message>
         <location filename="../src/model.cpp" line="205"/>
         <source>Welcome to the lxqt-clip clipboard history applet</source>
-        <translation>Вітаємо у аплеті історії буфера обміну lxqt-clip</translation>
+        <translation>歡迎使用 lxqt-clip 剪貼簿歷史記錄小工具</translation>
     </message>
 </context>
 <context>
     <name>LXQt::PreferencesDialog</name>
     <message>
+        <location filename="../src/preferencesdialog.ui" line="14"/>
+        <source>lxqt-clip Preferences</source>
+        <translation>lxqt-clip 偏好設定</translation>
+    </message>
+    <message>
         <location filename="../src/preferencesdialog.ui" line="42"/>
         <source>Preferences</source>
-        <translation>Налаштування</translation>
-    </message>
-    <message>
-        <location filename="../src/preferencesdialog.ui" line="113"/>
-        <source>Keyboard shortcut:</source>
-        <translation>Комбінації клавіш:</translation>
-    </message>
-    <message>
-        <location filename="../src/preferencesdialog.ui" line="120"/>
-        <source>Change global keyboard shortcut to invoke the menu on screen</source>
-        <translation>Змінити системні комбінації клавіш, щоб викликати меню на екрані</translation>
+        <translation>偏好設定</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="48"/>
         <source>Clipboard entries count:</source>
-        <translation>Кількість записів у буфері обміну:</translation>
+        <translation>剪貼簿列項計數：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="55"/>
         <source>The maximum count of dynamic items in the menu</source>
-        <translation>Максимальна кількість динамічних елементів показаних у меню</translation>
+        <translation>選單中動態項目的最大計數</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="61"/>
         <source> entries</source>
-        <translation> записи</translation>
+        <translation> 列項</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="77"/>
         <source>Maximum display size:</source>
-        <translation>Максимальний показуваний розмір:</translation>
+        <translation>最大顯示大小：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="84"/>
         <source>How long is the preview text in the menu</source>
-        <translation>Довжина показуваного тексту в меню</translation>
+        <translation>選單中預覽文字的長度</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="90"/>
         <source> characters</source>
-        <translation> символів</translation>
-    </message>
-    <message>
-        <location filename="../src/preferencesdialog.ui" line="156"/>
-        <source>Use platform specific extensions (advanced)</source>
-        <translation>Використовувати системні розширення платформи (додатково)</translation>
+        <translation> 字元</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="103"/>
         <source>Useful for bigger text blocks copied for example from dummy terminals (minicom, etc.)</source>
-        <translation>Корисно для великих текстових блоків, скопійованих, наприклад, зі спрощених терміналів (minicom тощо)</translation>
-    </message>
-    <message>
-        <location filename="../src/preferencesdialog.ui" line="14"/>
-        <source>lxqt-clip Preferences</source>
-        <translation>Параметри lxqt-clip</translation>
+        <translation>對於從虛擬終端機(minicom 等)複製的較大文字區塊非常有用</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="106"/>
         <source>Trim whitespaces for every line</source>
-        <translation>Обрізати пробіли у кожному рядку</translation>
+        <translation>修除每行的空白格位</translation>
+    </message>
+    <message>
+        <location filename="../src/preferencesdialog.ui" line="113"/>
+        <source>Keyboard shortcut:</source>
+        <translation>鍵盤快速鍵：</translation>
+    </message>
+    <message>
+        <location filename="../src/preferencesdialog.ui" line="120"/>
+        <source>Change global keyboard shortcut to invoke the menu on screen</source>
+        <translation>變更整體鍵盤快速鍵以在螢幕上呼叫選單</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="127"/>
         <source>Tray icon image:</source>
-        <translation>Зображення піктограми у системному лотку:</translation>
+        <translation>系統匣圖示圖片：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="153"/>
         <source>Use clipboard extensions (Selection/FindBuffer) when it&apos;s supported</source>
-        <translation>Використовувати розширення буфера обміну (Вибір/FindBuffer), якщо підтримується</translation>
+        <translation>當有支援時，使用剪貼簿擴充功能 (Selection/FindBuffer)</translation>
+    </message>
+    <message>
+        <location filename="../src/preferencesdialog.ui" line="156"/>
+        <source>Use platform specific extensions (advanced)</source>
+        <translation>使用平台指定的擴充功能(進階)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="164"/>
         <source>No synchronization of clipboard &amp; PSE</source>
-        <translation>Не синхронізувати буфер обміну та розширення</translation>
+        <translation>無作同步 剪貼簿與PSE</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="169"/>
         <source>Synchronize clipboard &amp; PSE when item selected</source>
-        <translation>Синхронізувати буфер обміну та розширення, якщо вибрано елемент</translation>
+        <translation>當項目選取時，進行同步剪貼簿和 PSE</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="174"/>
         <source>Synchronize clipboard &amp; PSE instantly</source>
-        <translation>Завжди синхронізувати буфер обміну та розширення</translation>
+        <translation>立即同步剪貼簿與 PSE</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="182"/>
         <source>Clear items on exit</source>
-        <translation>Очищувати історію під час виходу</translation>
+        <translation>清除項目於離開時</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="189"/>
         <source>Synchronize history to storage instantly</source>
-        <translation>Завжди синхронізувати історію зі сховищем</translation>
+        <translation>立即將歷史記錄同步至儲存裝置</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="209"/>
         <source>Confirm clear history</source>
-        <translation>Підтверджувати очищення історії</translation>
+        <translation>確認清除歷史記錄</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="225"/>
         <source>Sticky Items</source>
-        <translation>Прикріплені елементи</translation>
+        <translation>粘貼項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="231"/>
         <source>Sticky items are unchanged, always on top snippets in the menu</source>
-        <translation>Прикріплені елементи — закріплені вгорі меню фрагменти, які не змінюють розташування</translation>
+        <translation>粘貼項目是維持不變更的，始終顯示在選單中頂部片段</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="254"/>
         <source>Add new item to the end of the list</source>
-        <translation>Додати новий елемент у кінець списку</translation>
+        <translation>添加新建項目在清單末尾</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation>&amp;Додати</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="264"/>
         <source>Remove current item</source>
-        <translation>Вилучити вибраний елемент</translation>
+        <translation>移除目前項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="267"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Вилучити</translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="274"/>
         <source>Move item up</source>
-        <translation>Пересунути елемент вище</translation>
+        <translation>上移項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="277"/>
         <source>&amp;Up</source>
-        <translation>В&amp;гору</translation>
+        <translation>上移(&amp;U)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="284"/>
         <source>Move item down</source>
-        <translation>Пересунути елемент нижче</translation>
+        <translation>下移項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="287"/>
         <source>&amp;Down</source>
-        <translation>В&amp;низ</translation>
+        <translation>下移(&amp;D)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="46"/>
         <source>On Wayland, apps can&apos;t handle global shortcuts.
  Set the shortcut in your compositor to call D-Bus instead,
  e.g.: &apos;qdbus6 org.lxqt.lxqt-clip /org/lxqt/clip show&apos;</source>
-        <translation>У Wayland застосунки не підтримують глобальні комбінації клавіш.
- Налаштуйте комбінацію клавіш у вашому композиторі, щоб вона замість цього викликала D-Bus,
- напр.: &apos;qdbus6 org.lxqt.lxqt-clip /org/lxqt/clip show&apos;</translation>
+        <translation>在 Wayland 上，應用程式無法處理整體快速鍵。
+ 在您的合成器中設定快速鍵，以改為呼叫 D-Bus，
+ 例如： &apos;qdbus6 org.lxqt.lxqt-clip /org/lxqt/clip show&apos;</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="89"/>
         <source>Icon selection</source>
-        <translation>Вибір піктограми</translation>
+        <translation>圖示選擇</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="90"/>
         <source>Load icon from file...</source>
-        <translation>Завантажити піктограму з файлу...</translation>
+        <translation>載入圖示來自檔案...</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="91"/>
         <source>Use default icon</source>
-        <translation>Використовувати типову піктограму</translation>
+        <translation>使用預設圖示</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="136"/>
         <source>Select icon file</source>
-        <translation>Вибрати файл піктограми</translation>
+        <translation>選擇圖示檔案</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="138"/>
         <source>Images (*.bmp *.jpg *.jpeg *.png *.svg *.tga)</source>
-        <translation>Зображення (*.bmp *.jpg *.jpeg *.png *.svg *.tga)</translation>
+        <translation>圖片 (*.bmp *.jpg *.jpeg *.png *.svg *.tga)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="142"/>
         <source>Select icon</source>
-        <translation>Вибрати піктограму</translation>
+        <translation>選擇圖示</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="143"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="145"/>
         <source>Look in:</source>
         <extracomment>Label to describe the folder for icon file selection dialog.</extracomment>
-        <translation>Шукати в:</translation>
+        <translation>查探：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="146"/>
         <source>Icon name:</source>
-        <translation>Назва піктограми:</translation>
+        <translation>圖示名稱：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="147"/>
         <source>Icon type:</source>
-        <translation>Тип піктограми:</translation>
+        <translation>圖示類型：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="162"/>
+        <location filename="../src/preferencesdialog.cpp" line="162"/>
         <source>Add New Sticky Item</source>
-        <translation>Прикріпити новий елемент</translation>
+        <translation>添加新建粘貼項目</translation>
     </message>
 </context>
 <context>
@@ -237,110 +238,110 @@
     <message>
         <location filename="../src/systray.cpp" line="46"/>
         <source>C&amp;lear clipboard history</source>
-        <translation>&amp;Очистити історію буфера обміну</translation>
+        <translation>清除剪粘簿歷史記錄(&amp;C)</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="48"/>
         <source>&amp;Configure...</source>
-        <translation>&amp;Налаштувати...</translation>
+        <translation>調整設定(&amp;C)...</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="51"/>
         <source>&amp;About ...</source>
-        <translation>&amp;Про застосунок ...</translation>
+        <translation>關於(&amp;A) ...</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="53"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Вийти</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="60"/>
         <source>lxqt-clip - a clipboard history applet</source>
-        <translation>lxqt-clip — аплет історії буфера обміну</translation>
+        <translation>lxqt-clip - 剪貼簿歷史記錄工具</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="125"/>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="127"/>
         <source>No</source>
-        <translation>Ні</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="134"/>
         <source>About lxqt-clip</source>
-        <translation>Про lxqt-clip</translation>
+        <translation>關於 lxqt-clip</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="136"/>
         <source>Lightweight, clipboard history applet.&lt;p&gt;(c)&lt;ul&gt;&lt;li&gt;2010-2016&amp;nbsp;Petr&amp;nbsp;Vanek&amp;nbsp;&amp;lt;petr@yarpen.cz&amp;gt;&lt;/li&gt;&lt;li&gt;2026- LXQt team &lt;a href=&quot;https://lxqt-project.org&quot;&gt;lxqt-project.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-clip/&quot;&gt;https://github.com/lxqt/lxqt-clip/&lt;/a&gt;&lt;p&gt;Support for global keyboard shortcut: %1</source>
-        <translation>Легке пристосування для збереження історії буфера обміну.&lt;p&gt;(c)&lt;ul&gt;&lt;li&gt;2010-2016&amp;nbsp;Petr&amp;nbsp;Vanek&amp;nbsp;&amp;lt;petr@yarpen.cz&amp;gt;&lt;/li&gt;&lt;li&gt;2026- Команду LXQt &lt;a href=&quot;https://lxqt-project.org&quot;&gt;lxqt-project.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-clip/&quot;&gt;https://github.com/lxqt/lxqt-clip/&lt;/a&gt;&lt;p&gt;Підтримка глобальної комбінації клавіш: %1</translation>
+        <translation>輕量級，剪貼簿歷史記錄工具。&lt;p&gt;(c)&lt;ul&gt;&lt;li&gt;2010-2016&amp;nbsp;Petr&amp;nbsp;Vanek&amp;nbsp;&amp;lt;petr@yarpen.cz&amp;gt;&lt;/li&gt;&lt;li&gt;2026- LXQt team &lt;a href=&quot;https://lxqt-project.org&quot;&gt;lxqt-project.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-clip/&quot;&gt;https://github.com/lxqt/lxqt-clip/&lt;/a&gt;&lt;p&gt;支援整體鍵盤快速鍵： %1</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="160"/>
         <source>Confirm</source>
-        <translation>Підтвердити</translation>
+        <translation>確認</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="160"/>
         <source>Are you sure that you want to clear your clipboard history?</source>
-        <translation>Ви впевнені, що хочете очистити історію буфера обміну?</translation>
+        <translation>確定要清除剪貼簿歷史記錄嗎？</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/item.cpp" line="184"/>
+        <location filename="../src/item.cpp" line="185"/>
         <source>Url: %1</source>
-        <translation>Url-адреса: %1</translation>
+        <translation>Url: %1</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="186"/>
+        <location filename="../src/item.cpp" line="187"/>
         <source>Binary: %1</source>
-        <translation>Двійкові: %1</translation>
+        <translation>二進制： %1</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="238"/>
+        <location filename="../src/item.cpp" line="239"/>
         <source>Clipboard</source>
-        <translation>Буфер обміну</translation>
+        <translation>剪貼簿</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="241"/>
+        <location filename="../src/item.cpp" line="242"/>
         <source>Selection</source>
-        <translation>Вибір</translation>
+        <translation>選擇區段</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="244"/>
+        <location filename="../src/item.cpp" line="245"/>
         <source>Find Buffer</source>
-        <translation>Буфер пошуку</translation>
+        <translation>尋找緩衝</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="251"/>
+        <location filename="../src/item.cpp" line="252"/>
         <source>Plain Text</source>
-        <translation>Звичайний текст</translation>
+        <translation>純文字</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="254"/>
+        <location filename="../src/item.cpp" line="255"/>
         <source>Rich Text</source>
-        <translation>Форматований текст</translation>
+        <translation>富文字</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="257"/>
+        <location filename="../src/item.cpp" line="258"/>
         <source>Binary Content</source>
-        <translation>Двійкові дані</translation>
+        <translation>二進制內容</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="260"/>
+        <location filename="../src/item.cpp" line="261"/>
         <source>URL</source>
-        <translation>URL-адреса</translation>
+        <translation>URL</translation>
     </message>
     <message>
-        <location filename="../src/item.cpp" line="263"/>
+        <location filename="../src/item.cpp" line="264"/>
         <source>Sticky Item (Plain Text)</source>
-        <translation>Закріплені елементи (Звичайний текст)</translation>
+        <translation>粘貼項目 (純文字)</translation>
     </message>
 </context>
 </TS>
