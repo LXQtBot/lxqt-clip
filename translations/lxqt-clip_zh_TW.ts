@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="kk">
+<TS version="2.1" language="zh_TW">
 <context>
     <name>LXQt::Model</name>
     <message>
         <location filename="../src/model.cpp" line="205"/>
         <source>Welcome to the lxqt-clip clipboard history applet</source>
-        <translation>lxqt-clip алмасу буфері тарихы апплетіне қош келдіңіз</translation>
+        <translation>歡迎使用 lxqt-clip 剪貼簿歷史記錄小工具</translation>
     </message>
 </context>
 <context>
@@ -14,223 +14,223 @@
     <message>
         <location filename="../src/preferencesdialog.ui" line="14"/>
         <source>lxqt-clip Preferences</source>
-        <translation>lxqt-clip баптаулары</translation>
+        <translation>lxqt-clip 偏好設定</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="42"/>
         <source>Preferences</source>
-        <translation>Баптаулар</translation>
+        <translation>偏好設定</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="48"/>
         <source>Clipboard entries count:</source>
-        <translation>Алмасу буферіндегі жазбалар саны:</translation>
+        <translation>剪貼簿列項計數：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="55"/>
         <source>The maximum count of dynamic items in the menu</source>
-        <translation>Мәзірдегі динамикалық элементтердің максималды саны</translation>
+        <translation>選單中動態項目的最大計數</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="61"/>
         <source> entries</source>
-        <translation> жазба</translation>
+        <translation> 列項</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="77"/>
         <source>Maximum display size:</source>
-        <translation>Көрсетілетін максималды өлшем:</translation>
+        <translation>最大顯示大小：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="84"/>
         <source>How long is the preview text in the menu</source>
-        <translation>Мәзірдегі алдын ала қарау мәтінінің ұзындығы</translation>
+        <translation>選單中預覽文字的長度</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="90"/>
         <source> characters</source>
-        <translation> таңба</translation>
+        <translation> 字元</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="103"/>
         <source>Useful for bigger text blocks copied for example from dummy terminals (minicom, etc.)</source>
-        <translation>Мысалы, жалған терминалдардан (minicom, т.б.) көшірілген үлкен мәтін блоктары үшін пайдалы</translation>
+        <translation>對於從虛擬終端機(minicom 等)複製的較大文字區塊非常有用</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="106"/>
         <source>Trim whitespaces for every line</source>
-        <translation>Әрбір жол үшін бос орындарды қию</translation>
+        <translation>修除每行的空白格位</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="113"/>
         <source>Keyboard shortcut:</source>
-        <translation>Пернетақта жарлығы:</translation>
+        <translation>鍵盤快速鍵：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="120"/>
         <source>Change global keyboard shortcut to invoke the menu on screen</source>
-        <translation>Мәзірді экранда шақыру үшін глобалды пернетақта жарлығын өзгерту</translation>
+        <translation>變更整體鍵盤快速鍵以在螢幕上呼叫選單</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="127"/>
         <source>Tray icon image:</source>
-        <translation>Жүйелік науа таңбашасының суреті:</translation>
+        <translation>系統匣圖示圖片：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="153"/>
         <source>Use clipboard extensions (Selection/FindBuffer) when it&apos;s supported</source>
-        <translation>Қолдау көрсетілген кезде алмасу буферінің кеңейтулерін (Selection/FindBuffer) пайдалану</translation>
+        <translation>當有支援時，使用剪貼簿擴充功能 (Selection/FindBuffer)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="156"/>
         <source>Use platform specific extensions (advanced)</source>
-        <translation>Платформаға тән кеңейтулерді пайдалану (кеңейтілген)</translation>
+        <translation>使用平台指定的擴充功能(進階)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="164"/>
         <source>No synchronization of clipboard &amp; PSE</source>
-        <translation>Алмасу буфері мен PSE арасында синхрондау жоқ</translation>
+        <translation>無作同步 剪貼簿與PSE</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="169"/>
         <source>Synchronize clipboard &amp; PSE when item selected</source>
-        <translation>Элемент таңдалған кезде алмасу буфері мен PSE синхрондау</translation>
+        <translation>當項目選取時，進行同步剪貼簿和 PSE</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="174"/>
         <source>Synchronize clipboard &amp; PSE instantly</source>
-        <translation>Алмасу буфері мен PSE дереу синхрондау</translation>
+        <translation>立即同步剪貼簿與 PSE</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="182"/>
         <source>Clear items on exit</source>
-        <translation>Шыққан кезде элементтерді тазарту</translation>
+        <translation>清除項目於離開時</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="189"/>
         <source>Synchronize history to storage instantly</source>
-        <translation>Тарихты сақтау қоймасымен дереу синхрондау</translation>
+        <translation>立即將歷史記錄同步至儲存裝置</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="209"/>
         <source>Confirm clear history</source>
-        <translation>Тарихты тазартуды растау</translation>
+        <translation>確認清除歷史記錄</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="225"/>
         <source>Sticky Items</source>
-        <translation>Жабысқақ элементтер</translation>
+        <translation>粘貼項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="231"/>
         <source>Sticky items are unchanged, always on top snippets in the menu</source>
-        <translation>Жабысқақ элементтер — мәзірдің жоғарғы жағында тұратын, өзгермейтін мәтін үзінділері</translation>
+        <translation>粘貼項目是維持不變更的，始終顯示在選單中頂部片段</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="254"/>
         <source>Add new item to the end of the list</source>
-        <translation>Жаңа элементті тізімнің соңына қосу</translation>
+        <translation>添加新建項目在清單末尾</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation>Қо&amp;су</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="264"/>
         <source>Remove current item</source>
-        <translation>Ағымдағы элементті өшіру</translation>
+        <translation>移除目前項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="267"/>
         <source>&amp;Remove</source>
-        <translation>Ө&amp;шіру</translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="274"/>
         <source>Move item up</source>
-        <translation>Элементті жоғары жылжыту</translation>
+        <translation>上移項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="277"/>
         <source>&amp;Up</source>
-        <translation>&amp;Жоғары</translation>
+        <translation>上移(&amp;U)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="284"/>
         <source>Move item down</source>
-        <translation>Элементті төмен жылжыту</translation>
+        <translation>下移項目</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.ui" line="287"/>
         <source>&amp;Down</source>
-        <translation>&amp;Төмен</translation>
+        <translation>下移(&amp;D)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="46"/>
         <source>On Wayland, apps can&apos;t handle global shortcuts.
  Set the shortcut in your compositor to call D-Bus instead,
  e.g.: &apos;qdbus6 org.lxqt.lxqt-clip /org/lxqt/clip show&apos;</source>
-        <translation>Wayland жүйесінде қолданбалар глобалды жарлықтарды өңдей алмайды.
- Оның орнына D-Bus шақыру жарлығын композиторыңызда орнатыңыз,
- мысалы: &apos;qdbus6 org.lxqt.lxqt-clip /org/lxqt/clip show&apos;</translation>
+        <translation>在 Wayland 上，應用程式無法處理整體快速鍵。
+ 在您的合成器中設定快速鍵，以改為呼叫 D-Bus，
+ 例如： &apos;qdbus6 org.lxqt.lxqt-clip /org/lxqt/clip show&apos;</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="89"/>
         <source>Icon selection</source>
-        <translation>Таңбашаны таңдау</translation>
+        <translation>圖示選擇</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="90"/>
         <source>Load icon from file...</source>
-        <translation>Таңбашаны файлдан жүктеу...</translation>
+        <translation>載入圖示來自檔案...</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="91"/>
         <source>Use default icon</source>
-        <translation>Үнсіз келісім бойынша таңбашаны пайдалану</translation>
+        <translation>使用預設圖示</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="136"/>
         <source>Select icon file</source>
-        <translation>Таңбаша файлын таңдау</translation>
+        <translation>選擇圖示檔案</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="138"/>
         <source>Images (*.bmp *.jpg *.jpeg *.png *.svg *.tga)</source>
-        <translation>Суреттер (*.bmp *.jpg *.jpeg *.png *.svg *.tga)</translation>
+        <translation>圖片 (*.bmp *.jpg *.jpeg *.png *.svg *.tga)</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="142"/>
         <source>Select icon</source>
-        <translation>Таңбашаны таңдау</translation>
+        <translation>選擇圖示</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="143"/>
         <source>Cancel</source>
-        <translation>Бас тарту</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="145"/>
         <source>Look in:</source>
         <extracomment>Label to describe the folder for icon file selection dialog.</extracomment>
-        <translation>Қарау орны:</translation>
+        <translation>查探：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="146"/>
         <source>Icon name:</source>
-        <translation>Таңбаша аты:</translation>
+        <translation>圖示名稱：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="147"/>
         <source>Icon type:</source>
-        <translation>Таңбаша түрі:</translation>
+        <translation>圖示類型：</translation>
     </message>
     <message>
         <location filename="../src/preferencesdialog.cpp" line="162"/>
         <location filename="../src/preferencesdialog.cpp" line="162"/>
         <source>Add New Sticky Item</source>
-        <translation>Жаңа жабысқақ элементті қосу</translation>
+        <translation>添加新建粘貼項目</translation>
     </message>
 </context>
 <context>
@@ -238,57 +238,57 @@
     <message>
         <location filename="../src/systray.cpp" line="46"/>
         <source>C&amp;lear clipboard history</source>
-        <translation>Алмасу буферінің тарихын та&amp;зарту</translation>
+        <translation>清除剪粘簿歷史記錄(&amp;C)</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="48"/>
         <source>&amp;Configure...</source>
-        <translation>&amp;Баптау...</translation>
+        <translation>調整設定(&amp;C)...</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="51"/>
         <source>&amp;About ...</source>
-        <translation>Осы тур&amp;алы ...</translation>
+        <translation>關於(&amp;A) ...</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="53"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Шығу</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="60"/>
         <source>lxqt-clip - a clipboard history applet</source>
-        <translation>lxqt-clip — алмасу буфері тарихының апплеті</translation>
+        <translation>lxqt-clip - 剪貼簿歷史記錄工具</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="125"/>
         <source>Yes</source>
-        <translation>Иә</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="127"/>
         <source>No</source>
-        <translation>Жоқ</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="134"/>
         <source>About lxqt-clip</source>
-        <translation>lxqt-clip туралы</translation>
+        <translation>關於 lxqt-clip</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="136"/>
         <source>Lightweight, clipboard history applet.&lt;p&gt;(c)&lt;ul&gt;&lt;li&gt;2010-2016&amp;nbsp;Petr&amp;nbsp;Vanek&amp;nbsp;&amp;lt;petr@yarpen.cz&amp;gt;&lt;/li&gt;&lt;li&gt;2026- LXQt team &lt;a href=&quot;https://lxqt-project.org&quot;&gt;lxqt-project.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-clip/&quot;&gt;https://github.com/lxqt/lxqt-clip/&lt;/a&gt;&lt;p&gt;Support for global keyboard shortcut: %1</source>
-        <translation>Жеңіл алмасу буфері тарихының апплеті.&lt;p&gt;(c)&lt;ul&gt;&lt;li&gt;2010-2016&amp;nbsp;Petr&amp;nbsp;Vanek&amp;nbsp;&amp;lt;petr@yarpen.cz&amp;gt;&lt;/li&gt;&lt;li&gt;2026- LXQt team &lt;a href=&quot;https://lxqt-project.org&quot;&gt;lxqt-project.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-clip/&quot;&gt;https://github.com/lxqt/lxqt-clip/&lt;/a&gt;&lt;p&gt;Глобалды пернетақта жарлығын қолдау: %1</translation>
+        <translation>輕量級，剪貼簿歷史記錄工具。&lt;p&gt;(c)&lt;ul&gt;&lt;li&gt;2010-2016&amp;nbsp;Petr&amp;nbsp;Vanek&amp;nbsp;&amp;lt;petr@yarpen.cz&amp;gt;&lt;/li&gt;&lt;li&gt;2026- LXQt team &lt;a href=&quot;https://lxqt-project.org&quot;&gt;lxqt-project.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-clip/&quot;&gt;https://github.com/lxqt/lxqt-clip/&lt;/a&gt;&lt;p&gt;支援整體鍵盤快速鍵： %1</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="160"/>
         <source>Confirm</source>
-        <translation>Растау</translation>
+        <translation>確認</translation>
     </message>
     <message>
         <location filename="../src/systray.cpp" line="160"/>
         <source>Are you sure that you want to clear your clipboard history?</source>
-        <translation>Алмасу буферінің тарихын тазарту керек пе?</translation>
+        <translation>確定要清除剪貼簿歷史記錄嗎？</translation>
     </message>
 </context>
 <context>
@@ -301,37 +301,37 @@
     <message>
         <location filename="../src/item.cpp" line="187"/>
         <source>Binary: %1</source>
-        <translation>Екілік: %1</translation>
+        <translation>二進制： %1</translation>
     </message>
     <message>
         <location filename="../src/item.cpp" line="239"/>
         <source>Clipboard</source>
-        <translation>Алмасу буфері</translation>
+        <translation>剪貼簿</translation>
     </message>
     <message>
         <location filename="../src/item.cpp" line="242"/>
         <source>Selection</source>
-        <translation>Таңдау</translation>
+        <translation>選擇區段</translation>
     </message>
     <message>
         <location filename="../src/item.cpp" line="245"/>
         <source>Find Buffer</source>
-        <translation>Іздеу буфері</translation>
+        <translation>尋找緩衝</translation>
     </message>
     <message>
         <location filename="../src/item.cpp" line="252"/>
         <source>Plain Text</source>
-        <translation>Жай мәтін</translation>
+        <translation>純文字</translation>
     </message>
     <message>
         <location filename="../src/item.cpp" line="255"/>
         <source>Rich Text</source>
-        <translation>Пішімделген мәтін</translation>
+        <translation>富文字</translation>
     </message>
     <message>
         <location filename="../src/item.cpp" line="258"/>
         <source>Binary Content</source>
-        <translation>Екілік мазмұн</translation>
+        <translation>二進制內容</translation>
     </message>
     <message>
         <location filename="../src/item.cpp" line="261"/>
@@ -341,7 +341,7 @@
     <message>
         <location filename="../src/item.cpp" line="264"/>
         <source>Sticky Item (Plain Text)</source>
-        <translation>Жабысқақ элемент (жай мәтін)</translation>
+        <translation>粘貼項目 (純文字)</translation>
     </message>
 </context>
 </TS>
